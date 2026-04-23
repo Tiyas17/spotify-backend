@@ -59,10 +59,10 @@ Follows MVC pattern with modular structure:
 
 ## ⚙️ Setup & Installation
 # Clone the repository
-- git clone https://github.com/your-username/your-repo-name.git
+- git clone https://github.com/Tiyas17/spotify-backend.git
 
 # Navigate to project
-cd your-repo-name
+cd spotify-backend
 
 # Install dependencies
 npm install
